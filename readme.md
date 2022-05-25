@@ -1,1 +1,1 @@
-https://capsule-render.vercel.app/api?type=soft
+https://capsule-render.vercel.app/api?type=slice

@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Sim%20Dong%20Hwi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome!&descAlignY=51&descAlign=72)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Sim%20Dong%20Hwi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome!&descAlignY=51&descAlign=72)
 <p align='center'> 도안고 2학년 </p>
 <p align='center'>
   <a href="https://github.com/simdonghwi?tab=repositories">

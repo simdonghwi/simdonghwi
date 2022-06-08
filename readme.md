@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&desc=심동휘)
+![header](https://capsule-render.vercel.app/api?type=waving&desc=)
